@@ -11,6 +11,7 @@
 - 📬 You can reach me on [Mendix Community Slack](https://mendixcommunity.slack.com/) -> find me there (`jelte.lagendijk`)
 - 👨‍💻 Find more info on my [Mendix Profile](https://developer.mendixcloud.com/link/profile/overview/24785)
 
+<h3>Stats</h3>
 
 ![Jelte's github stats](https://github-readme-stats.vercel.app/api?username=jeltemx&show_icons=true&theme=vue-dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeltemx&theme=vue-dark&layout=compact)
 -|-
