@@ -65,7 +65,7 @@ I'm a Front-end Developer who enjoys building reusable components and solutions.
     - [Dropdown Container](https://marketplace.mendix.com/link/component/111568) - [source](https://github.com/mendixlabs/mendix-dropdown-container)
   - Native
     - [Content Renderer](https://marketplace.mendix.com/link/component/119620) - [source](https://github.com/JelteMX/mendix-native-content-renderer)
-    - ✍️ Segmented Progress Bar - [source](https://github.com/JelteMX/mendix-native-segmented-progressbar)
+    - [Segmented Progress Bar](https://marketplace.mendix.com/link/component/119688) - [source](https://github.com/JelteMX/mendix-native-segmented-progressbar)
     - ✍️ Web View Revamped - [source](https://github.com/JelteMX/mendix-native-webview-revamped)
 - 💾 Mendix Modules
   - [Math](https://marketplace.mendix.com/link/component/112522) - [source](https://github.com/mendixlabs/mendix-math-module)
