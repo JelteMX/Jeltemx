@@ -1,0 +1,72 @@
+{
+    "widgets": {
+        "web": [{
+                "name": "Tree View",
+                "url": "https://marketplace.mendix.com/link/component/112707",
+                "source": "https://github.com/mendixlabs/mendix-tree-view"
+            },
+            {
+                "name": "Tree Table",
+                "url": "https://marketplace.mendix.com/link/component/111095",
+                "source": "https://github.com/mendixlabs/mendix-tree-table"
+            },
+            {
+                "name": "Matrix",
+                "url": "https://marketplace.mendix.com/link/component/112555",
+                "source": "https://github.com/mendixlabs/mendix-dynamic-table"
+            },
+            {
+                "name": "File Dropper",
+                "url": "https://marketplace.mendix.com/link/component/111497",
+                "source": "https://github.com/mendixlabs/mendix-file-dropper"
+            },
+            {
+                "name": "Text Template",
+                "url": "https://marketplace.mendix.com/link/component/114696",
+                "source": "https://github.com/mendixlabs/mendix-text-template"
+            },
+            {
+                "name": "IFrame Component",
+                "url": "https://marketplace.mendix.com/link/component/117308",
+                "source": "https://github.com/mendixlabs/mendix-iframe-component"
+            },
+            {
+                "name": "Attribute Helper",
+                "url": "https://marketplace.mendix.com/link/component/111554",
+                "source": "https://github.com/mendixlabs/mendix-attribute-helper-widget"
+            },
+            {
+                "name": "Dropdown Container",
+                "url": "https://marketplace.mendix.com/link/component/111568",
+                "source": "https://github.com/mendixlabs/mendix-dropdown-container"
+            }
+        ],
+        "native": [{
+                "name": "Content Renderer",
+                "url": "https://marketplace.mendix.com/link/component/119620",
+                "source": "https://github.com/JelteMX/mendix-native-content-renderer"
+            },
+            {
+                "name": "✍️ Segmented Progress Bar",
+                "url": null,
+                "source": "https://github.com/JelteMX/mendix-native-segmented-progressbar"
+            },
+            {
+                "name": "✍️ Web View Revamped",
+                "url": null,
+                "source": "https://github.com/JelteMX/mendix-native-webview-revamped"
+            }
+        ]
+    },
+    "modules": [{
+            "name": "Math",
+            "url": "https://marketplace.mendix.com/link/component/112522",
+            "source": "https://github.com/mendixlabs/mendix-math-module"
+        },
+        {
+            "name": "Fake Data",
+            "url": "https://marketplace.mendix.com/link/component/112021",
+            "source": "https://github.com/mendixlabs/mendix-fake-data-module"
+        }
+    ]
+}
