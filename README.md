@@ -1,6 +1,13 @@
-<h1>hi there! :wave:</h1>
+# hi there! :wave:
 
-<h3>Who am i?</h3>
+### Who am i?
+
+I'm fun to work with, I always seek new challenges in programming.
+
+
+[![GitHub followers](https://img.shields.io/github/followers/JelteMX?style=social)](https://www.github.com/JelteMX)
+[![Linkedin Badge](https://img.shields.io/badge/-jeltelagendijk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeltelagendijk/)](https://www.linkedin.com/in/jeltelagendijk/)
+
 
 - 💪 I work on a lot of [Mendix](https://mendix.com) related components
   - 🎓 Some can be found on the official [Github](https://github.com/mendix) organization
@@ -11,12 +18,12 @@
 - 📬 You can reach me on [Mendix Community Slack](https://mendixcommunity.slack.com/) -> find me there (`jelte.lagendijk`)
 - 👨‍💻 Find more info on my [Mendix Profile](https://developer.mendixcloud.com/link/profile/overview/24785)
 
-<h3>Stats</h3>
+### Stats
 
 ![Jelte's github stats](https://github-readme-stats.vercel.app/api?username=jeltemx&show_icons=true&theme=vue-dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeltemx&theme=vue-dark&layout=compact)
 -|-
 
-<h3>Projects</h3>
+### Projects
 
 - 🧩 Mendix Widgets - Mostly on [Mendix Labs](https://github.com/mendixlabs) and [my own profile](https://github.com/JelteMX?tab=repositories&type=source). Here are the highlights:
   - Web
