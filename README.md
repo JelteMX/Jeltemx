@@ -1,6 +1,6 @@
 <h1>hi there! :wave:</h1> 
 
-![hits](https://hits.sh/github.com/jeltemx/hits.svg?style=for-the-badge)
+[![Hits](https://hits.sh/github.com/jeltemx/hits.svg?style=for-the-badge&label=Profile%20visits&extraCount=1000&logo=github)](https://hits.sh/github.com/jeltemx/hits/)
 
 <h3>Who am i?</h3>
 
