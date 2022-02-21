@@ -1,4 +1,6 @@
-<h1>hi there! :wave:</h1>
+<h1>hi there! :wave:</h1> 
+
+![hits](https://hits.sh/github.com/jeltemx/hits.svg?style=for-the-badge)
 
 <h3>Who am i?</h3>
 
