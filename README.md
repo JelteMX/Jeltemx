@@ -20,9 +20,14 @@ I'm a Front-end Developer who enjoys building reusable components and solutions.
 
 <br />
 
-- 💪 I work on a lot of [Mendix](https://mendix.com) related components
+> NOTE: I have left Mendix per June 1st 2022. This means any components, built by me, that are in the [Mendix](https://github.com/mendix) and [Mendix Labs](https://github.com/mendixlabs) Github organization, will **NOT be supported by me** anymore. Please contact Mendix for any support from them.
+
+<br />
+
+- 💪 I have worked on a lot of [Mendix](https://mendix.com) related components
   - 🎓 Some can be found on the official [Github](https://github.com/mendix) organization
   - 😎 Most is found at [Mendix Labs](https://github.com/mendixlabs), as my work usually is not officially supported
+  - _Please note that any components I have built for these organizations, are not supported by me anymore, see note above._
 - 🥇 Top 5 All-time [Mendix Marketplace contributor](https://developer.mendixcloud.com/link/leaderboards)
 - 📙 I'm mostly focussed on **Typescript**, **React** and **React Native**
   - 🔬 I do a bit of Java development on the side
@@ -34,7 +39,6 @@ I'm a Front-end Developer who enjoys building reusable components and solutions.
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/jeltelagendijk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://developer.mendixcloud.com/link/profile/overview/24785" target="_blank"><img src="https://raw.githubusercontent.com/JelteMX/jeltemx/master/dist/mendix_profile-blue.svg" target="_blank"></a>
   <a href="https://github.com/JelteMX" target="_blank"><img src="https://img.shields.io/github/followers/JelteMX?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://mendixcommunity.slack.com/team/UKT28S63G
 " target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
@@ -55,7 +59,7 @@ I'm a Front-end Developer who enjoys building reusable components and solutions.
 <h3>Projects</h3>
 <br />
 
-- 🧩 Mendix Widgets - Mostly on [Mendix Labs](https://github.com/mendixlabs) and [my own profile](https://github.com/JelteMX?tab=repositories&type=source). Here are the highlights:
+- 🧩 Mendix Widgets - Mostly on [Mendix Labs](https://github.com/mendixlabs) (unsupported). Here are the highlights:
   - Web
     - [Tree View](https://marketplace.mendix.com/link/component/112707) - [source](https://github.com/mendixlabs/mendix-tree-view)
     - [Tree Table](https://marketplace.mendix.com/link/component/111095) - [source](https://github.com/mendixlabs/mendix-tree-table)
