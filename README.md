@@ -45,14 +45,6 @@ I'm a Front-end Developer who enjoys building reusable components and solutions.
 </p>
 <br />
 
-<h3>Stats</h3>
-<br />
-<center>
-
-![contributions](https://raw.githubusercontent.com/JelteMX/jeltemx/output/github-contribution-grid-snake.gif)
-
-</center>
-
 ![Jelte's github stats](https://github-readme-stats.vercel.app/api?username=jeltemx&show_icons=true&theme=vue-dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeltemx&theme=vue-dark&layout=compact)
 -|-
 
