@@ -1,6 +1,16 @@
 <h1>hi there! :wave:</h1> 
 
-[![Hits](https://hits.sh/github.com/jeltemx/hits.svg?style=for-the-badge&label=Profile%20visits&extraCount=1000&logo=github)](https://hits.sh/github.com/jeltemx/hits/)
+<br />
+<br />
+<br />
+<br />
+
+> **NOTE: This profile I consider no longer to be active (I keep it for archiving purposes). Please visit my active profile: [@j3lte](https://github.com/j3lte)**
+
+<br />
+<br />
+<br />
+<br />
 
 <h3>Who am i?</h3>
 
@@ -72,10 +82,3 @@ I'm a Front-end Developer who enjoys building reusable components and solutions.
   - Worked on the [technical stack](https://github.com/mendix/docs) in 2016-2017, has since been taken over. [See activity](https://github.com/mendix/docs/search?q=committer%3AJelteMX&type=commits)
 
 > ✍️ = experimental/work-in-progress
-
-<h3>Personal</h3>
-<br />
-
-I also do a bit of photography on the side:
-
-  <a href="https://instagram.com/j3lte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
